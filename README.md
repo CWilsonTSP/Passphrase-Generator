@@ -13,7 +13,12 @@ passphrase.
 `./password`
 
 ### How does it work?
-When running
+When it starts, the program will load two word lists-- one for adjectives, and
+one for nouns. The user can append or remove any words they wish from these lists.
+
+Two words are chosen at random from the adjectives list and one is chosen from 
+the nouns. They are combined in the form "AdjectiveAdjectiveNoun" and "A/n" is
+prepended.
 
 ### How many possible combinations are there?
 A lot.
@@ -24,3 +29,4 @@ A lot.
 - length paramter
 - filter out words that don't play well
 - Tests (for whatever reason)
+- A "static" version that doesn't rely on dynamically loading word lists
