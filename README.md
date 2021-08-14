@@ -23,6 +23,17 @@ prepended.
 ### How many possible combinations are there?
 A lot.
 
+### Fun Examples
+Note: I do not recommend you use these, as they are
+1. Listed on the internet
+2. Long and too tedious to memorize
+
+- aDeconstructionistPolemoniaceousRappahannock
+- AnImpetuousFerromagneticLonganimity
+- aNonrenewableTicklingBastardization
+- aNondenominationalUnrecognizedBattlesight
+
+
 ## TODO:
 - Maybe make faster. 
 - Add random symbol replacement for extra entropy
