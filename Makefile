@@ -1,9 +1,9 @@
 all:
-	g++ main.cpp -o password
+	g++ -Wall main.cpp -o password
 run:
 	make all
 	./password
 clean:
 	rm -rf password *.o
 test:
-	echo Do some tests
+	./password -m 10 -M 20
