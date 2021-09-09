@@ -35,9 +35,6 @@ Note: I do not recommend you use these, as they are
 
 
 ## TODO:
-- Maybe make faster. 
-- Add random symbol replacement for extra entropy
-- length paramter
+- Add random symbol replacement for extra entropy (l33tspeak)
 - filter out words that don't play well
-- Tests (for whatever reason)
 - A "static" version that doesn't rely on dynamically loading word lists
