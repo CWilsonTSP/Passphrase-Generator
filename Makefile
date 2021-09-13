@@ -1,5 +1,5 @@
 all:
-	g++ -Wall main.cpp -o password
+	g++ -Wall -O3 main.cpp -o password
 run:
 	make all
 	./password
